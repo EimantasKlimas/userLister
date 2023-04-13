@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "NPC_wojak_meme.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
